@@ -1,2 +1,2 @@
 # vimrc
-my vimrc. subject of constant change.
+my vimrc. subject to constant change.
